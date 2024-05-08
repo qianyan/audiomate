@@ -1,4 +1,3 @@
-import argparse
 import os
 import subprocess
 import sys
@@ -27,7 +26,7 @@ def install_dependencies():
 
 
 def run_model():
-    run_cmd("python core.py")
+    run_cmd("python webui.py")
 
 
 if __name__ == "__main__":

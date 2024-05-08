@@ -1,3 +1,4 @@
 .idea/
 installer_files/
 outputs/
+__pycache__/
